@@ -10,7 +10,7 @@
 
 
 # Here is what are the key subjects I have done !
-## I have learned Probability and Stochastic Processes 
-## I have learned Foundation Of Data Science
+## I have learnt Probability and Stochastic Processes 
+## I have learnt Foundation Of Data Science
 ## C++ , Matlab,Latex,Python
-## I have learned Numarilcal Analysis with matlab ( This subject have larg use to get  analytical solution of complex problems )
+## I have learnt Numerical Analysis with matlab ( This subject have great use to get  analytical solution of complex problems )
