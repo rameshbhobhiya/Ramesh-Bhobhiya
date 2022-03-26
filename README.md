@@ -9,7 +9,7 @@
 
 
 
-# Here is what are the key subjects I have done !
+# Here are the key subjects I have done !
 ## I have learnt Probability and Stochastic Processes 
 ## I have learnt Foundation Of Data Science
 ## C++ , Matlab,Latex,Python
